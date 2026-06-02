@@ -1,9 +1,9 @@
 +++
-draft = false       <!-草稿状态true，false为已发布- >  
-title = 'AI与Aris，hidari的碎碎念'           <!-标题- > 
-author = 'hidari'      <!-作者- >   
-tags = ['AI', 'Aris']  <!-标签- > 
-summary = '谁是Aris。'  <!-标题摘要，可删- > 
+draft = false        
+title = 'AI与Aris，hidari的碎碎念'           
+author = 'hidari'      
+tags = ['AI', 'Aris']   
+summary = '谁是Aris。'  
 +++
 
 ## 谁是Aris？
