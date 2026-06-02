@@ -30,4 +30,13 @@ summary = '第一篇博客文章，记录使用 Hugo + GitHub Pages 搭建个人
 
 {{< callout type="info" >}}
 此文非本人（hidari）撰写，均由Aris（AI）撰写，此条除外。
-{{< /callout >}}
+{{< /callout >}}+++
+draft = false          ← 把 true 改成 false（上线）
+title = '我的第一篇文章'
+author = 'hidari'      ← 默认就是你，aris写的就改aris
+tags = ['教程', '生活']  ← 加标签
++++
+
+## 这里开始写正文
+
+用Markdown格式随便写...
