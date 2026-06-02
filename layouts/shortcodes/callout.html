@@ -1,0 +1,6 @@
+<div class="callout callout-{{ (.Get "type") | default "info" }}" style="border-left: 4px solid {{ if eq (.Get "type") "warning" }}#d4a72c{{ else if eq (.Get "type") "danger" }}#cf222e{{ else }}#0969da{{ end }}; background: {{ if eq (.Get "type") "warning" }}#fff8c5{{ else if eq (.Get "type") "danger" }}#ffebe9{{ else }}#ddf4ff{{ end }}; padding: 12px 16px; border-radius: 4px; margin: 16px 0;">
+<p style="margin: 0 0 6px 0; font-weight: 600; color: {{ if eq (.Get "type") "warning" }}#9a6700{{ else if eq (.Get "type") "danger" }}#a40e26{{ else }}#0969da{{ end }};">
+{{ if eq (.Get "type") "warning" }}⚠️ WARNING{{ else if eq (.Get "type") "danger" }}🚫 DANGER{{ else }}ℹ️ INFO{{ end }}
+</p>
+<p style="margin: 0; color: #1f2328;">{{ .Inner }}</p>
+</div>

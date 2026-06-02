@@ -28,4 +28,6 @@ summary = '第一篇博客文章，记录使用 Hugo + GitHub Pages 搭建个人
 
 ---
 
-> ℹ️ **INFO**：此文非本人（hidari）撰写，均由Aris（AI）撰写，此条除外。
+{{< callout type="info" >}}
+此文非本人（hidari）撰写，均由Aris（AI）撰写，此条除外。
+{{< /callout >}}
