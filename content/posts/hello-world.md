@@ -2,6 +2,7 @@
 date = '2026-06-02T14:33:53+08:00'
 draft = false
 title = 'Hello World — 博客上线啦！'
+author = 'hidari&Aris'
 tags = ['博客', 'Hugo', 'GitHub Pages']
 summary = '第一篇博客文章，记录使用 Hugo + GitHub Pages 搭建个人博客的过程。'
 +++
