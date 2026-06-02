@@ -15,6 +15,7 @@ defaultContentLanguage = 'zh'
   ShowCodeCopyButtons = true
   ShowToc = true
   defaultTheme = 'auto'
+  comments = true
 
   [params.homeInfoParams]
     Title = "👋 欢迎来到hidari的博客"
