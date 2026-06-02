@@ -25,3 +25,5 @@ summary = '第一篇博客文章，记录使用 Hugo + GitHub Pages 搭建个人
 4. 🔄 **自动化部署** — git push 之后自动上线
 
 > 接下来的文章会分享更多技术、生活与思考。Stay tuned!
+> [!INFO]
+> 此文非本人（hidari）撰写，均由Aris（AI）撰写，此条消息除外。
