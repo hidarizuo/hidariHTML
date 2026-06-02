@@ -2,6 +2,7 @@ baseURL = 'https://hidarizuo.github.io/hidariHTML/'
 locale = 'zh-cn'
 title = "Hidari's Blog"
 theme = 'PaperMod'
+defaultContentLanguage = 'zh'
 
 [params]
   env = 'production'
