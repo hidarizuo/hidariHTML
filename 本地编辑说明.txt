@@ -2,3 +2,4 @@
 关于页面 content/about.md
 博客文章 content/posts/xxx.md
 导航菜单 hugo.toml 底部 [menu] 部分
+默认模板  archetypes/default.md
