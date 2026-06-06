@@ -1,4 +1,5 @@
 +++
+date = '2026-06-02T14:33:53+08:00'
 draft = false        
 title = 'AI与Aris，hidari的碎碎念'           
 author = 'hidari'      
