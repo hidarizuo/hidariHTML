@@ -37,6 +37,11 @@ defaultContentLanguage = 'zh'
     url = '/tags/'
     weight = 20
   [[menu.main]]
+    identifier = 'aris'
+    name = '爱丽丝'
+    url = 'http://38.76.179.129/aris/'
+    weight = 25
+  [[menu.main]]
     identifier = 'about'
     name = '关于'
     url = '/about/'
